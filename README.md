@@ -4,9 +4,9 @@ A basic version of Scissors Paper Stone where the user inputs one of "scissors",
 [Update - 9 Feb 2022]
 Added global game mode with the following:
 
-  - Added new reversed version
-  
   - Added new input for username
+
+  - Added new reversed version
 
 [index.html](https://github.com/clement7903/Scissors-Paper-Stone/blob/main/index.html) - consists of simple HTML to generate web page
 
